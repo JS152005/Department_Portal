@@ -307,3 +307,4 @@ The grading scale follows the standard University guidelines:
 **Sriram College of Arts and Science**  
 *Department of Computer Science*  
 Perumalpattu, Tiruvallur — 602 024, Tamil Nadu, India.
+Contact - HOD +91 96771 07586 
