@@ -1,5 +1,5 @@
 # Department Management Portal 
-#*Note - Code is Not available
+> **Note:** Source code is not available because this was developed as a freelance project.
 ### Sriram College of Arts and Science — Department of Computer Science
 
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-emerald)
